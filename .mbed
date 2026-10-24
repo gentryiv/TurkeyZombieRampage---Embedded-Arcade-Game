@@ -1,0 +1,7 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/Lab6_2036_Reset]=101000000000000000000002F7F4464F
+DEVICE_TYPE[/home/studio/workspace/Lab6_2036_Reset]=connected
+TARGET=LPC1768
+TARGET_CODE=1010
+DEVICE_ID[/home/studio/workspace/Lab6_2036]=101000000000000000000002F7F4464F
+DEVICE_TYPE[/home/studio/workspace/Lab6_2036]=connected
